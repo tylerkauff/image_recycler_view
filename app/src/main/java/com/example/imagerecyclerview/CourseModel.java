@@ -13,7 +13,6 @@ public class CourseModel {
         this.course_rating = course_rating;
     }
 
-    // Getter and Setter
     public String getCourse_name() {
         return course_name;
     }
